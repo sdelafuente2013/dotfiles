@@ -51,4 +51,7 @@
   rebase = false
 [user]
 	email = santiagodelafuente2013@gmail.com
-	name = Santiago
+	name = santi
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
